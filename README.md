@@ -27,6 +27,8 @@ Trabalho como desenvolvedor de software desde Dezembro de 2021. Atuei em diverso
 + Telas para aplicações front-end (**Vue**, **Vuex**, **Javascript**, **HTML**, **CSS**)
 + Aplicações backend (**Java**, **SpringBoot**, **Ruby**, **Rails**, **PostgreSQL**)
 
+Não uso esse github para trabalho. Minha atividade reflete apenas projetos pessoais 😉
+
 ## Redes Sociais 🌐
 
 <a href="https://www.linkedin.com/in/milton-pereira-carvalhaes-neto/" target="_blank">

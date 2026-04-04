@@ -1,8 +1,8 @@
 # Opa! Como cê tá? Eu me chamo Milton 👋
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notlimneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notlimneto&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=notlimneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=notlimneto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 

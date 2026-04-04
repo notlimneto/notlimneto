@@ -1,8 +1,8 @@
 # Opa! Como cê tá? Eu me chamo Milton 👋
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notlimneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notlimneto&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notlimneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notlimneto&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
 </div>
 
 
@@ -23,11 +23,11 @@
 ## Sobre Mim :suspect:
 
 Trabalho como desenvolvedor de software desde Dezembro de 2021. Atuei em diversos projetos, dentre eles:
-+ APIs de download de movimentações financeiras (**Javascript**, **Nodejs**)
-+ Microsserviços de leitura e cadastro do conteúdo de arquivos de movimentação financeira (**Java**, **SpringBoot**, **AWS**, **SQS**, **OracleSQL**)
++ APIs de download e gerenciamento de movimentações financeiras (**SpringBoot**, **Javascript**, **Nodejs**)
++ Microsserviços de leitura e adequação à regra de conciliação financeira (**Java**, **SpringBoot**, **AWS**, **SQS**, **OracleSQL**)
 + Aplicação de transformação de arquivos de movimentação financeira (**Java**, **SpringBoot**)
 + Telas para aplicações front-end (**Vue**, **Vuex**, **Javascript**, **HTML**, **CSS**)
-+ Aplicações backend (**Java**, **SpringBoot**, **Ruby**, **Rails**, **PostgreSQL**)
++ Aplicações backend simples (**Java**, **SpringBoot**, **Ruby**, **Rails**, **PostgreSQL**)
 
 Não uso esse github para trabalho. Minha atividade reflete apenas projetos pessoais 😉
 

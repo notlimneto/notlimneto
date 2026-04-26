@@ -22,7 +22,7 @@
 
 ## Sobre Mim :suspect:
 
-Trabalho como desenvolvedor de software desde Dezembro de 2021. Atuei em diversos projetos, dentre eles:
+Trabalho como desenvolvedor de software desde Dezembro de 2021. Atuei em diversos projetos e atualmente atuo como desenvolvedor júnior em uma empresa de conciliação financeira, dentre os projetos estão:
 + APIs de download e gerenciamento de movimentações financeiras (**SpringBoot**, **Javascript**, **Nodejs**)
 + Microsserviços de leitura e adequação à regra de conciliação financeira (**Java**, **SpringBoot**, **AWS**, **SQS**, **OracleSQL**)
 + Aplicação de transformação de arquivos de movimentação financeira (**Java**, **SpringBoot**)
